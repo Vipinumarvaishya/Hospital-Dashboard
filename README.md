@@ -49,8 +49,6 @@ The dashboard below is a **comprehensive healthcare data visualization project**
 
 ---
 
-## 📷 Screenshot
-![Hospital Dashboard](Screenshot%202025-07-25%20145444.png)
 
 ---
 
